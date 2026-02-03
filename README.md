@@ -1,1 +1,6 @@
 # IVC---GITHUB
+lab record for ivc
+NMAE  HARI KUMAR R
+BCA(H)
+SECTION "A"
+USN 1RUA25BCA0038
